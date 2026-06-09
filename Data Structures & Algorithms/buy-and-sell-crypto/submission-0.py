@@ -1,3 +1,4 @@
+#Brute force
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         diff = 0
